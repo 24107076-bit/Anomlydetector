@@ -1,0 +1,452 @@
+[
+    {
+        "customer_uuid": "3a5b9f54-36b0-46ea-ba5a-8ca6579781d6",
+        "name": "Ishaan Virk",
+        "account_number": "21054382712",
+        "ifsc_code": "SBIN0066589",
+        "bank_name": "State Bank of India",
+        "base_location": "Dehradun",
+        "primary_device_id": "DEV-WWJJPU-53"
+    },
+    {
+        "customer_uuid": "22ee7f39-980f-4ef6-864c-b5c39ab5355d",
+        "name": "Ekbal Rastogi",
+        "account_number": "77740406075",
+        "ifsc_code": "KKBK0034545",
+        "bank_name": "Kotak Mahindra Bank",
+        "base_location": "Dehradun",
+        "primary_device_id": "DEV-MEUERR-53"
+    },
+    {
+        "customer_uuid": "17926c7f-185b-4b76-b455-f1420fe7101c",
+        "name": "Mugdha Keer",
+        "account_number": "32109007217",
+        "ifsc_code": "HDFC0071016",
+        "bank_name": "HDFC Bank",
+        "base_location": "Dibrugarh",
+        "primary_device_id": "DEV-PPBEBX-23"
+    },
+    {
+        "customer_uuid": "4a5d8776-bf77-4065-8710-15fbed462b7c",
+        "name": "Devika Mukhopadhyay",
+        "account_number": "86527229886",
+        "ifsc_code": "ICIC0057523",
+        "bank_name": "ICICI Bank",
+        "base_location": "Tiruvottiyur",
+        "primary_device_id": "DEV-ICTODI-45"
+    },
+    {
+        "customer_uuid": "42476867-9687-47d4-9ab7-62c9cbc81165",
+        "name": "Harinakshi Mistry",
+        "account_number": "83667421905",
+        "ifsc_code": "SBIN0015815",
+        "bank_name": "State Bank of India",
+        "base_location": "Bhubaneswar",
+        "primary_device_id": "DEV-ZRAYKR-12"
+    },
+    {
+        "customer_uuid": "a46c79c6-76d1-4b1a-b2b1-c149024b099e",
+        "name": "Urishilla Mittal",
+        "account_number": "62141836606",
+        "ifsc_code": "KKBK0048507",
+        "bank_name": "Kotak Mahindra Bank",
+        "base_location": "Madanapalle",
+        "primary_device_id": "DEV-ZZTTXL-46"
+    },
+    {
+        "customer_uuid": "daa435e2-4299-4c87-9fad-39a492cdc686",
+        "name": "Aachal Chaudhary",
+        "account_number": "43228593240",
+        "ifsc_code": "UTIB0084023",
+        "bank_name": "Axis Bank",
+        "base_location": "Allahabad",
+        "primary_device_id": "DEV-PSIYAM-80"
+    },
+    {
+        "customer_uuid": "7efd902c-78ba-4ffa-82fa-109bec625fc0",
+        "name": "Balvan Hans",
+        "account_number": "15136193663",
+        "ifsc_code": "SBIN0046935",
+        "bank_name": "State Bank of India",
+        "base_location": "Pimpri-Chinchwad",
+        "primary_device_id": "DEV-REGIQW-92"
+    },
+    {
+        "customer_uuid": "e017f400-6351-489c-8af3-b3d23d3a5d62",
+        "name": "Kai Oak",
+        "account_number": "43715659432",
+        "ifsc_code": "ICIC0016117",
+        "bank_name": "ICICI Bank",
+        "base_location": "Gorakhpur",
+        "primary_device_id": "DEV-MHMLXQ-87"
+    },
+    {
+        "customer_uuid": "627c7fbe-cb91-4fac-b304-c9ded452ff1b",
+        "name": "Ansh Bobal",
+        "account_number": "95516789155",
+        "ifsc_code": "UTIB0068314",
+        "bank_name": "Axis Bank",
+        "base_location": "Karimnagar",
+        "primary_device_id": "DEV-PAVDTJ-61"
+    },
+    {
+        "customer_uuid": "1020d0e3-42a1-4cf0-8819-3dcb237c5594",
+        "name": "Hredhaan Sundaram",
+        "account_number": "97243575006",
+        "ifsc_code": "SBIN0060489",
+        "bank_name": "State Bank of India",
+        "base_location": "Pali",
+        "primary_device_id": "DEV-CIGYQH-14"
+    },
+    {
+        "customer_uuid": "2016683c-9dee-4871-aff2-811db81410d4",
+        "name": "Jeremiah Bains",
+        "account_number": "47556338324",
+        "ifsc_code": "UTIB0066194",
+        "bank_name": "Axis Bank",
+        "base_location": "Pali",
+        "primary_device_id": "DEV-TTVPQL-19"
+    },
+    {
+        "customer_uuid": "4d5d3735-527a-437b-b812-f87101c940cb",
+        "name": "Ishwar Raval",
+        "account_number": "17802826896",
+        "ifsc_code": "ICIC0030532",
+        "bank_name": "ICICI Bank",
+        "base_location": "Vijayanagaram",
+        "primary_device_id": "DEV-EFCBMB-70"
+    },
+    {
+        "customer_uuid": "d272f822-12b1-4a8a-9109-a04c33260e15",
+        "name": "Ayush Kant",
+        "account_number": "29418351698",
+        "ifsc_code": "HDFC0082845",
+        "bank_name": "HDFC Bank",
+        "base_location": "Faridabad",
+        "primary_device_id": "DEV-VNODMU-85"
+    },
+    {
+        "customer_uuid": "f837f70a-5251-4136-80ea-aed4d2af4349",
+        "name": "Aarini Sibal",
+        "account_number": "39360098699",
+        "ifsc_code": "SBIN0049210",
+        "bank_name": "State Bank of India",
+        "base_location": "Thanjavur",
+        "primary_device_id": "DEV-PIQPMH-59"
+    },
+    {
+        "customer_uuid": "745c9f40-d773-4eb8-b888-4350eb909c12",
+        "name": "Unni Saran",
+        "account_number": "19512068448",
+        "ifsc_code": "HDFC0057420",
+        "bank_name": "HDFC Bank",
+        "base_location": "Bhind",
+        "primary_device_id": "DEV-JYZGDW-74"
+    },
+    {
+        "customer_uuid": "fc225cad-d822-43f5-aa77-883ee4d4186b",
+        "name": "Balveer Rattan",
+        "account_number": "99684806076",
+        "ifsc_code": "HDFC0020049",
+        "bank_name": "HDFC Bank",
+        "base_location": "Sirsa",
+        "primary_device_id": "DEV-MSCJHX-54"
+    },
+    {
+        "customer_uuid": "d2718f0c-264f-4a5c-84e9-f9a028ac9ebb",
+        "name": "Faraj Cherian",
+        "account_number": "65130707081",
+        "ifsc_code": "SBIN0087191",
+        "bank_name": "State Bank of India",
+        "base_location": "Miryalaguda",
+        "primary_device_id": "DEV-OTJWLB-33"
+    },
+    {
+        "customer_uuid": "47d1ab2e-24a8-4446-b755-637d243bf8b3",
+        "name": "Lekha Kara",
+        "account_number": "49848593801",
+        "ifsc_code": "ICIC0022991",
+        "bank_name": "ICICI Bank",
+        "base_location": "Bhimavaram",
+        "primary_device_id": "DEV-XXUAHU-34"
+    },
+    {
+        "customer_uuid": "3f0e783e-af87-4340-ac02-d35bda711985",
+        "name": "Arya Dhillon",
+        "account_number": "81064322276",
+        "ifsc_code": "SBIN0090114",
+        "bank_name": "State Bank of India",
+        "base_location": "Kollam",
+        "primary_device_id": "DEV-LPMIEP-14"
+    },
+    {
+        "customer_uuid": "d05d415b-67c3-40c6-85a4-df5e496f9910",
+        "name": "Kavya Choudhary",
+        "account_number": "85186481293",
+        "ifsc_code": "ICIC0033903",
+        "bank_name": "ICICI Bank",
+        "base_location": "Thoothukudi",
+        "primary_device_id": "DEV-IISTAK-13"
+    },
+    {
+        "customer_uuid": "aaaead09-88a5-41fc-a3e6-59226cd31039",
+        "name": "Arjun Upadhyay",
+        "account_number": "11166574512",
+        "ifsc_code": "SBIN0041934",
+        "bank_name": "State Bank of India",
+        "base_location": "Satna",
+        "primary_device_id": "DEV-LEMMKS-92"
+    },
+    {
+        "customer_uuid": "294e9a5a-cbb9-4d11-a360-0f69f8095330",
+        "name": "Eiravati Sem",
+        "account_number": "44051045449",
+        "ifsc_code": "HDFC0090646",
+        "bank_name": "HDFC Bank",
+        "base_location": "Pondicherry",
+        "primary_device_id": "DEV-IIRWOT-48"
+    },
+    {
+        "customer_uuid": "17278ce2-78df-4493-b97c-a8f829f7da54",
+        "name": "Forum Murty",
+        "account_number": "95212156449",
+        "ifsc_code": "ICIC0021175",
+        "bank_name": "ICICI Bank",
+        "base_location": "Ranchi",
+        "primary_device_id": "DEV-ZMSGSJ-69"
+    },
+    {
+        "customer_uuid": "057f3a0e-fa3b-43cb-b373-5893d883d49a",
+        "name": "Anirudh Date",
+        "account_number": "24015283229",
+        "ifsc_code": "KKBK0044510",
+        "bank_name": "Kotak Mahindra Bank",
+        "base_location": "Tirunelveli",
+        "primary_device_id": "DEV-LTGYET-94"
+    },
+    {
+        "customer_uuid": "2aa92614-714a-4cf4-b1eb-130fdee1e4e7",
+        "name": "Chanakya Garg",
+        "account_number": "27520839493",
+        "ifsc_code": "SBIN0081161",
+        "bank_name": "State Bank of India",
+        "base_location": "Karimnagar",
+        "primary_device_id": "DEV-EDYEKY-76"
+    },
+    {
+        "customer_uuid": "0d3dd168-bf4c-4f1f-98ef-80c53c254409",
+        "name": "Bhanumati Tandon",
+        "account_number": "17335915621",
+        "ifsc_code": "SBIN0013411",
+        "bank_name": "State Bank of India",
+        "base_location": "Phusro",
+        "primary_device_id": "DEV-DJJJTN-75"
+    },
+    {
+        "customer_uuid": "5d0d26aa-64d0-47a1-bb2a-1d4bc9975ad4",
+        "name": "Jeremiah Patla",
+        "account_number": "97419753831",
+        "ifsc_code": "KKBK0016573",
+        "bank_name": "Kotak Mahindra Bank",
+        "base_location": "Siliguri",
+        "primary_device_id": "DEV-LJUZMN-30"
+    },
+    {
+        "customer_uuid": "8acac1a9-2a09-4c8f-b31e-11eb19468037",
+        "name": "Darsh Chacko",
+        "account_number": "35023405358",
+        "ifsc_code": "HDFC0010275",
+        "bank_name": "HDFC Bank",
+        "base_location": "Giridih",
+        "primary_device_id": "DEV-LJKQJO-31"
+    },
+    {
+        "customer_uuid": "3c6963fe-9119-446b-983c-c546568818db",
+        "name": "Chandresh Kala",
+        "account_number": "72708587934",
+        "ifsc_code": "SBIN0063921",
+        "bank_name": "State Bank of India",
+        "base_location": "Ramagundam",
+        "primary_device_id": "DEV-NAPMVI-40"
+    },
+    {
+        "customer_uuid": "76ce922d-8088-4bbd-889f-2f795a1bf9f1",
+        "name": "Tamanna Buch",
+        "account_number": "69344050676",
+        "ifsc_code": "ICIC0023996",
+        "bank_name": "ICICI Bank",
+        "base_location": "Haridwar",
+        "primary_device_id": "DEV-FLSYMR-97"
+    },
+    {
+        "customer_uuid": "88915aee-cf8e-4a94-84b2-9682bcc06114",
+        "name": "Sarthak Krish",
+        "account_number": "99879669742",
+        "ifsc_code": "KKBK0025559",
+        "bank_name": "Kotak Mahindra Bank",
+        "base_location": "Kochi",
+        "primary_device_id": "DEV-XIOUBO-20"
+    },
+    {
+        "customer_uuid": "ac7c94c8-7829-47ba-b9f9-15fbb584ef9a",
+        "name": "Zarna Saran",
+        "account_number": "94767921395",
+        "ifsc_code": "ICIC0043181",
+        "bank_name": "ICICI Bank",
+        "base_location": "Vadodara",
+        "primary_device_id": "DEV-GMNDZW-69"
+    },
+    {
+        "customer_uuid": "25c71c2b-c540-40eb-9c29-ab414284d847",
+        "name": "Ansh Natt",
+        "account_number": "38869055823",
+        "ifsc_code": "UTIB0021832",
+        "bank_name": "Axis Bank",
+        "base_location": "Madhyamgram",
+        "primary_device_id": "DEV-HEKEZG-52"
+    },
+    {
+        "customer_uuid": "ce1fd692-afda-4bc2-848c-c8078cc815dd",
+        "name": "Bhavya Shukla",
+        "account_number": "61277861778",
+        "ifsc_code": "KKBK0077817",
+        "bank_name": "Kotak Mahindra Bank",
+        "base_location": "Madhyamgram",
+        "primary_device_id": "DEV-SZSFWG-73"
+    },
+    {
+        "customer_uuid": "9e20987d-7a9d-4538-a27e-02ce4a70fac4",
+        "name": "Harita Sachdeva",
+        "account_number": "28387723988",
+        "ifsc_code": "KKBK0070494",
+        "bank_name": "Kotak Mahindra Bank",
+        "base_location": "Hyderabad",
+        "primary_device_id": "DEV-FMBGEK-14"
+    },
+    {
+        "customer_uuid": "50c7d93d-6d7a-4378-b15d-e8336623ca86",
+        "name": "Amaira Patla",
+        "account_number": "19682433945",
+        "ifsc_code": "HDFC0060599",
+        "bank_name": "HDFC Bank",
+        "base_location": "Jhansi",
+        "primary_device_id": "DEV-DGDXOS-88"
+    },
+    {
+        "customer_uuid": "895f9342-1c0e-4881-b4d4-7bdb8ba555e4",
+        "name": "Vansha Hegde",
+        "account_number": "98226564230",
+        "ifsc_code": "ICIC0090457",
+        "bank_name": "ICICI Bank",
+        "base_location": "Bijapur",
+        "primary_device_id": "DEV-XNUJOD-15"
+    },
+    {
+        "customer_uuid": "c18ab191-ebec-49b6-9883-450480aa7884",
+        "name": "Divya Chander",
+        "account_number": "89753754647",
+        "ifsc_code": "SBIN0014079",
+        "bank_name": "State Bank of India",
+        "base_location": "Sikar",
+        "primary_device_id": "DEV-JZPSDE-56"
+    },
+    {
+        "customer_uuid": "955ab282-7d51-4c78-aa53-557a93cd706e",
+        "name": "Krish Chhabra",
+        "account_number": "23474497722",
+        "ifsc_code": "ICIC0028305",
+        "bank_name": "ICICI Bank",
+        "base_location": "Moradabad",
+        "primary_device_id": "DEV-GCZZZG-38"
+    },
+    {
+        "customer_uuid": "39434fd9-daa6-47da-a737-118b700a4d37",
+        "name": "Keya Jain",
+        "account_number": "43849865573",
+        "ifsc_code": "HDFC0018528",
+        "bank_name": "HDFC Bank",
+        "base_location": "Jorhat",
+        "primary_device_id": "DEV-IQCVLQ-96"
+    },
+    {
+        "customer_uuid": "a04aec4f-f26a-4c7f-95a3-401812203e8e",
+        "name": "Chakradhar Doctor",
+        "account_number": "36028642992",
+        "ifsc_code": "SBIN0017392",
+        "bank_name": "State Bank of India",
+        "base_location": "Gurgaon",
+        "primary_device_id": "DEV-FWIYKP-80"
+    },
+    {
+        "customer_uuid": "4c2457de-3f22-441f-8f91-983236a377dd",
+        "name": "Vincent Mittal",
+        "account_number": "74703620245",
+        "ifsc_code": "UTIB0034699",
+        "bank_name": "Axis Bank",
+        "base_location": "Silchar",
+        "primary_device_id": "DEV-DYBLQH-86"
+    },
+    {
+        "customer_uuid": "839bafa7-2154-4d1a-9707-fb5c0e9e7b95",
+        "name": "Champak Krishnan",
+        "account_number": "30907163140",
+        "ifsc_code": "SBIN0072262",
+        "bank_name": "State Bank of India",
+        "base_location": "Akola",
+        "primary_device_id": "DEV-ALSDNY-27"
+    },
+    {
+        "customer_uuid": "bb3f0f2a-1c79-4e52-b62d-8fffce5a8db4",
+        "name": "Bishakha Solanki",
+        "account_number": "71155156624",
+        "ifsc_code": "ICIC0022198",
+        "bank_name": "ICICI Bank",
+        "base_location": "Kulti",
+        "primary_device_id": "DEV-RHDEGZ-81"
+    },
+    {
+        "customer_uuid": "405f8a0f-316b-429d-9f73-2f094df8f922",
+        "name": "Reyansh Lad",
+        "account_number": "41772629849",
+        "ifsc_code": "KKBK0099377",
+        "bank_name": "Kotak Mahindra Bank",
+        "base_location": "Tiruppur",
+        "primary_device_id": "DEV-MNZQLZ-61"
+    },
+    {
+        "customer_uuid": "b85fb67d-33e1-4610-ab8a-67126b35fba3",
+        "name": "Vaishnavi Banerjee",
+        "account_number": "98873877900",
+        "ifsc_code": "SBIN0063293",
+        "bank_name": "State Bank of India",
+        "base_location": "Madanapalle",
+        "primary_device_id": "DEV-DTNVHV-87"
+    },
+    {
+        "customer_uuid": "8b349942-b636-4f07-9ad0-2fb2d35b0de9",
+        "name": "Eiravati Sama",
+        "account_number": "42864015926",
+        "ifsc_code": "UTIB0072545",
+        "bank_name": "Axis Bank",
+        "base_location": "Shimla",
+        "primary_device_id": "DEV-DYMVLD-61"
+    },
+    {
+        "customer_uuid": "10126285-3db4-4125-9a3a-605618229a24",
+        "name": "Gauri Basak",
+        "account_number": "68943798146",
+        "ifsc_code": "HDFC0061685",
+        "bank_name": "HDFC Bank",
+        "base_location": "Gulbarga",
+        "primary_device_id": "DEV-FKKBQE-19"
+    },
+    {
+        "customer_uuid": "c31cdfa6-4aa2-4b1e-b3fc-3b08c2c10451",
+        "name": "Matthew Khosla",
+        "account_number": "32923909254",
+        "ifsc_code": "UTIB0044677",
+        "bank_name": "Axis Bank",
+        "base_location": "Panipat",
+        "primary_device_id": "DEV-ZTKEWX-55"
+    }
+]
